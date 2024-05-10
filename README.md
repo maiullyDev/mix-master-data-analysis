@@ -1,3 +1,5 @@
+![Logo da gravadora fictícia](logo.png)
+
 # Ficha técnica | Mix Master
 <p align="center">
 <a href="## Equipe">Equipe</a> •
