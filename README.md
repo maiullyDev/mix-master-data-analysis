@@ -45,7 +45,7 @@ Acesse o notebook do Google Coleb para conhecer os códigos e gráficos gerados 
 ## Veja o projeto no Power BI
 ![<center>Imagem prévia</center>](./assets/img_power_bi.png)
 
-[<center>Conheça o nosso projeto</center>](https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9a)
+[<center>Conheça o nosso projeto</center>](https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9a)  
 ## Resultados e Conclusões
 Os resultados do projeto foram apresentados e discutidos em uma página pública do Notion. Para saber mais detalhes e descobrir quais hipóteses foram validadas e quais foram refutadas, [clique aqui para acessar a página.](https://www.notion.so/Resultados-e-Conclus-es-dfc2af5e8eef4460ae8428b746c82511) ✌🏽  
 ### Hipóteses
