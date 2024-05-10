@@ -55,7 +55,7 @@ Os resultados do projeto foram apresentados e discutidos em uma página pública
 ⭐ Em termos reais, não é possível afirmar categoricamente que uma música que esteja classificada em uma posição alta em um determinado ranking em uma plataforma estará necessariamente bem classificada em outro ranking em outra plataforma. Embora tenha sido identificada uma correlação moderada entre as variáveis testadas, isso indica apenas uma associação estatística entre a presença das músicas nos rankings das diferentes plataformas, não uma relação de causa e efeito. 
    
 **A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams?**  
-✅ A análise revelou uma correlação significativa entre as variáveis total_playlist e o total de streams.   
+✅ A análise revelou uma correlação significativa entre o total de playlist e o total de streams.   
   
 **Artistas com um maior número de músicas no Spotify têm mais streams?**  
 ⭐ Os artistas que lançam mais músicas tendem a ser mais ouvidos. No início da análise dos resultados, foi observado que cinco dos artistas mais ouvidos também estavam no top 10 de artistas com mais lançamentos.  
