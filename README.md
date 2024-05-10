@@ -45,25 +45,25 @@ Acesse o notebook do Google Coleb para conhecer os códigos e gráficos gerados 
 ## Resultados e Conclusões
 Os resultados do projeto foram apresentados e discutidos em uma página pública do Notion. Para saber mais detalhes e descobrir quais hipóteses foram validadas e quais foram refutadas, [clique aqui para acessar a página.](https://www.notion.so/Resultados-e-Conclus-es-dfc2af5e8eef4460ae8428b746c82511) ✌🏽  
 ### Hipóteses
-**↪ Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify?**  
+**Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify?**  
 ❌ Não foi identificada uma correlação forte entre essas variáveis.  
   
-**↪ A escala musical influencia no número de streams?**  
+**A escala musical influencia no número de streams?**  
 ❌ Não, os valores de streams para cada escala estão bem distribuídos em ambos os grupos.  
   
-**↪ As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas?**  
+**As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas?**  
 ⭐ Em termos reais, não é possível afirmar categoricamente que uma música que esteja classificada em uma posição alta em um determinado ranking em uma plataforma estará necessariamente bem classificada em outro ranking em outra plataforma. Embora tenha sido identificada uma correlação moderada entre as variáveis testadas, isso indica apenas uma associação estatística entre a presença das músicas nos rankings das diferentes plataformas, não uma relação de causa e efeito. 
    
-**↪ A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams?**  
+**A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams?**  
 ✅ A análise revelou uma correlação significativa entre as variáveis total_playlist e o total de streams.   
   
-**↪ Artistas com um maior número de músicas no Spotify têm mais streams?**  
+**Artistas com um maior número de músicas no Spotify têm mais streams?**  
 ⭐ Os artistas que lançam mais músicas tendem a ser mais ouvidos. No início da análise dos resultados, foi observado que cinco dos artistas mais ouvidos também estavam no top 10 de artistas com mais lançamentos.  
   
-**↪ O total de artistas envolvidos em uma música tem relação com o total de streams?**  
+**O total de artistas envolvidos em uma música tem relação com o total de streams?**  
 ✅ O grupo de músicas com 1 a 3 artistas, conta com faixas com baixo e alto número de streams. Por outro lado, no grupo de músicas com 4 artistas por música ou mais, a quantidade de streams tende a ser mais uniformemente baixa. Canções com muitos artistas por música tendem a não atrair muitos streams.  
   
-**↪ As características da música influenciam o sucesso em termos de streams no Spotify?**  
+**As características da música influenciam o sucesso em termos de streams no Spotify?**  
 ❌ Não há uma relação estatisticamente relevante entre as características das músicas e sua popularidade em termos de streams no Spotify. Isso sugere que, dentro da amostra analisada, características como dançabilidade, energia, instrumentalidade, acústica e valência das músicas não têm um impacto direto ou consistente na quantidade de streams que recebem. 
    
 ## Venha nos conhecer!
