@@ -67,7 +67,7 @@ Os resultados do projeto foram apresentados e discutidos em uma página pública
 ❌ Não há uma relação estatisticamente relevante entre as características das músicas e sua popularidade em termos de streams no Spotify. Isso sugere que, dentro da amostra analisada, características como dançabilidade, energia, instrumentalidade, acústica e valência das músicas não têm um impacto direto ou consistente na quantidade de streams que recebem. 
    
 ## Venha nos conhecer!
-Quer saber mais sobre as autoras desse projeto? Acesse o nosso LinkdIn:
+Quer saber mais sobre as autoras desse projeto? Acesse o nosso LinkedIn:
   
 https://www.linkedin.com/in/maiully-data-analyst/
   
