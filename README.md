@@ -1,4 +1,4 @@
-![Logo da gravadora fictícia](logo.png)
+![Logo da gravadora fictícia](./assets/logo.png)
 
 # Ficha técnica | Mix Master
 <p align="center">
@@ -43,7 +43,7 @@ Acesse o notebook do Google Coleb para conhecer os códigos e gráficos gerados 
 ## Design (Figma)  
 - Para ver inspirações, cores, ícones, e teste de acessibilidade, [acesse o projeto no Figma](https://www.figma.com/file/lfbKCrMl0ygbW2s9fUCsuV/dashboard-hipoteses?type=design&node-id=1104%3A28&mode=design&t=E1pQKO0ufPYp8Q1C-1).
 ## Veja o projeto no Power BI
-![<center>Imagem prévia</center>](img_power_bi.png)
+![<center>Imagem prévia</center>](./assets/img_power_bi.png)
 
 [<center>Conheça o nosso projeto</center>](https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9a)
 ## Resultados e Conclusões
