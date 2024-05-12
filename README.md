@@ -10,7 +10,7 @@
 <a href="## Google Colab">Google Colab</a> •
 <a href="## Veja o projeto no Power BI">Power BI</a> •
 <a href="## Resultados e Conclusões">Resultados e Conclusões</a> •
-<a href="LinkdIn">LinkdIn</a>
+<a href="LinkdIn">LinkedIn</a>
 </p>  
 
 ## Equipe
