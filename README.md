@@ -14,8 +14,9 @@
 </p>  
 
 ## Equipe
-- Eslaine Santos
-- Maiully Mendonça (maiully.mend@gmail.com)
+Esse projeto foi feito por:
+- Eslaine Santos (https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
+- Maiully Mendonça (https://www.linkedin.com/in/maiully-data-analyst/)
 ## Ferramentas
 - BigQuery (linguagem SQL): para gerenciamento de dados.
 - Power BI: para visualização de dados.
