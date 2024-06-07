@@ -10,8 +10,7 @@
 <a href="## Google Colab">Google Colab</a> •
 <a href="## Veja o projeto no Power BI">Power BI</a> •
 <a href="## Pré-processamento dos dados">Pré-processamento dos dados</a> •
-<a href="## Conclusões e Validação de Hipóteses">Conclusões e Validação de Hipóteses</a> •
-<a href="LinkdIn">LinkedIn</a>
+<a href="## Conclusões e Validação de Hipóteses">Conclusões e Validação de Hipóteses</a>
 </p>  
 
 ## Equipe
