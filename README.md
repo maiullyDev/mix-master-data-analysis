@@ -18,9 +18,9 @@ Esse projeto foi feito por:
 - Eslaine Santos (https://www.linkedin.com/in/eslaine-santos-e-santos-46159a28/)
 - Maiully Mendonça (https://www.linkedin.com/in/maiully-data-analyst/)
 ## Ferramentas
-- BigQuery (linguagem SQL): para gerenciamento de dados.
+- BigQuery: gerenciamento de dados usando a linguagem SQL.
 - Power BI: para visualização de dados.
-- Google Colab (Python): para realizar análises em Python.
+- Google Colab (Python): para realizar análises colaborativas usando Python.
 ## Caso
 Em um mercado altamente competitivo, uma gravadora precisa inserir um novo artista no cenário global da música.
 
