@@ -10,6 +10,7 @@
 <a href="## Google Colab">Google Colab</a> •
 <a href="## Veja o projeto no Power BI">Power BI</a> •
 <a href="## Pré-processamento dos dados">Pré-processamento dos dados</a> •
+<a href="## Conclusões e Validação de Hipóteses">Conclusões e Validação de Hipóteses</a> •
 <a href="LinkdIn">LinkedIn</a>
 </p>  
 
@@ -84,7 +85,7 @@ Foram criadas 3 novas tabelas?
 - Tabela total_musics_artist: contém dados sobre o total de músicas por artista, e dados sobre a média de streams por artista.  
 - Tabela joined_tables: contém dados sobre as músicas, incluindo nome do artista, data de lançamento, total de playlists nas quais estão inseridas (em diferentes plataformas), ranking em diferentes plataformas, e características técnicas.  
 
-## Conclusões e Hipóteses
+## Conclusões e Validação de Hipóteses
 ### Streams por data de lançamento das músicas
 → Os dados para essa análise, se tratam das músicas mais ouvidas no ano de 2023. Ao analisar o ano de lançamento das músicas desse banco de dados, é possível observar:
 
