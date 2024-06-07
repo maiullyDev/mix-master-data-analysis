@@ -47,7 +47,7 @@ Nós criamos um projeto no Figma para o guia de estilos do nosso dashboard, pens
 ## Veja o projeto no Power BI
 ![<center>Imagem prévia</center>](./assets/img_power_bi.png)
 
-[Conheça o nosso dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmU2ZTdjZTktYWQyOS00YjcwLTgyNDUtODM3ZmRhMDdiMTQ5IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9)  
+[Conheça o nosso dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzRiYTJjMTItMTI3MS00NDAzLTk4YmYtYzBjMDQzMmQ1NzQ0IiwidCI6ImRkYWUxY2M0LWJmMjItNGVjNC04ZGVkLWYxMjk3OTI2YmMxNiJ9&pageName=ReportSection566586d215a102c1dbbe)  
 ## Pré-processamento dos dados
 ### Valores nulos  
 Após as consultas foram encontradas as seguintes contagens para os valores nulos:
