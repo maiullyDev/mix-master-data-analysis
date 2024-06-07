@@ -39,10 +39,11 @@ dados, por meio da validação de hipóteses.
 - Para ter acesso aos dados originais do projeto, acesse a pasta arquivos_originais.  
 - Para ter acesso aos dados tratados do projeto, acesse a pasta dados_tratados.
 ## Google Colab
-Acesse o notebook do Google Coleb para conhecer os códigos e gráficos gerados para os testes de hipóteses.  
+Acesse o notebook do Google Colab para conhecer os códigos e gráficos gerados para os testes de hipóteses.  
 [Clique aqui para acessar](https://colab.research.google.com/drive/119geWP5ptsqI5TKIUUcVjuHzDP8Ym9tK#scrollTo=W51ocgiq-h8Q)
 ## Design (Figma)  
-- Para ver inspirações, cores, ícones, e teste de acessibilidade, [acesse o projeto no Figma](https://www.figma.com/file/lfbKCrMl0ygbW2s9fUCsuV/dashboard-hipoteses?type=design&node-id=1104%3A28&mode=design&t=E1pQKO0ufPYp8Q1C-1).
+Nós criamos um projeto no Figma para o guia de estilos do nosso dashboard, pensamos em inspirações, cores, contrastes e na acessibilidade para pessoas com daltonismo e baixa visão.
+- Para ver cores, ícones, e o teste de acessibilidade, [acesse o projeto no Figma](https://www.figma.com/file/lfbKCrMl0ygbW2s9fUCsuV/dashboard-hipoteses?type=design&node-id=1104%3A28&mode=design&t=E1pQKO0ufPYp8Q1C-1).
 ## Veja o projeto no Power BI
 ![<center>Imagem prévia</center>](./assets/img_power_bi.png)
 
