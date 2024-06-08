@@ -1,17 +1,36 @@
 ![Logo da gravadora fictícia](./assets/logo.png)
 
 # Ficha técnica | Mix Master
-<p align="center">
-<a href="## Equipe">Equipe</a> •
-<a href="## Ferramentas">Ferramentas</a> •
-<a href="## Caso">Caso</a> •
-<a href="## Objetivo">Objetivo</a> •
-<a href="## Dados">Dados</a> •
-<a href="## Google Colab">Google Colab</a> •
-<a href="## Veja o projeto no Power BI">Power BI</a> •
-<a href="## Pré-processamento dos dados">Pré-processamento dos dados</a> •
-<a href="## Conclusões e Validação de Hipóteses">Conclusões e Validação de Hipóteses</a>
-</p>  
+
+## Índice  
+- [Ficha técnica | Mix Master](#ficha-técnica--mix-master)
+  - [Índice](#índice)
+  - [Equipe](#equipe)
+  - [Ferramentas](#ferramentas)
+  - [Caso](#caso)
+  - [Objetivo](#objetivo)
+  - [Dados](#dados)
+  - [Google Colab](#google-colab)
+  - [Design (Figma)](#design-figma)
+  - [Veja o projeto no Power BI](#veja-o-projeto-no-power-bi)
+  - [Pré-processamento dos dados](#pré-processamento-dos-dados)
+    - [Valores nulos](#valores-nulos)
+    - [Valores duplicados](#valores-duplicados)
+    - [Valores discrepantes](#valores-discrepantes)
+    - [Valores outliers](#valores-outliers)
+    - [Novas tabelas](#novas-tabelas)
+  - [Conclusões e Validação de Hipóteses](#conclusões-e-validação-de-hipóteses)
+    - [Streams por data de lançamento das músicas](#streams-por-data-de-lançamento-das-músicas)
+    - [Segmentação](#segmentação)
+    - [Hipóteses](#hipóteses)
+      - [Hipótese 1 | Será que as músicas com BPM mais alto fazem mais sucesso em termos de número de streams no Spotify? ❌](#hipótese-1--será-que-as-músicas-com-bpm-mais-alto-fazem-mais-sucesso-em-termos-de-número-de-streams-no-spotify-)
+      - [Hipótese 2 | As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer? ✅](#hipótese-2--as-músicas-mais-populares-no-ranking-do-spotify-também-possuem-um-comportamento-semelhante-em-outras-plataformas-como-deezer-)
+      - [Hipótese 3 | A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams? ✅](#hipótese-3--a-presença-de-uma-música-em-um-maior-número-de-playlists-está-correlacionada-com-um-maior-número-de-streams-)
+      - [Hipótese 4 | Artistas com um maior número de músicas no Spotify têm mais streams? ✅](#hipótese-4--artistas-com-um-maior-número-de-músicas-no-spotify-têm-mais-streams-)
+      - [Hipótese 5 | As características de uma música influenciam no sucesso em termos de número de streams no Spotify? ❌](#hipótese-5--as-características-de-uma-música-influenciam-no-sucesso-em-termos-de-número-de-streams-no-spotify-)
+      - [Hipótese adicional](#hipótese-adicional)
+    - [Sugestões](#sugestões)
+    - [Limitações e ideias futuras](#limitações-e-ideias-futuras)
 
 ## Equipe
 Esse projeto foi feito por:
@@ -69,7 +88,7 @@ A tabela track_in_spotify conta com 4 linhas em que o nome do artista e o nome d
 
 Optamos por eliminar essas 4 linhas duplicadas a fim de evitar equívocos na análise.  
 
-### Valores Discrepantes  
+### Valores discrepantes  
 Na coluna track_name da tabela track_in_spotify, algumas músicas continham o caractere indesejado: �. Esse caractere foi removido.
     
 Na coluna streams da tabela track_in_spotify, foi encontrado o valor BPM110KeyAModeMajorDanceability53Valence75Energy69Acousticness7Instrumentalness0Liveness17Speechiness3. A linha que continha esse valor foi removida, pois optamos por usar apenas os valores do tipo numérico.  
@@ -287,7 +306,7 @@ Essa observação nos leva a concluir que, por algum motivo, canções com muito
 
 • Explorar oportunidades de colaboração e parceria com outros artistas de forma equilibrada, evitando sobrecarregar as faixas com um número excessivo de colaboradores.  
 
-### Limitações e Ideias futuras
+### Limitações e ideias futuras
 
 Muitos fatores podem influenciar o número de streams, e muitos deles são externos ao Spotify, o que não é possível avaliar devido aos dados serem quase que exclusivamente provenientes dessa plataforma, com apenas algumas outras variáveis provenientes de plataformas de menor destaque como Deezer, Apple e Shazam.  
 Por isso, investigar a influência de fatores externos é importante. Como exemplo, podemos considerar o impacto de ouvir um clipe no YouTube ou em outras redes sociais na quantidade de vezes que uma música será reproduzida no Spotify.  
