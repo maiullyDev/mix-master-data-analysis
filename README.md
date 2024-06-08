@@ -195,7 +195,7 @@ Para resumir essa análise, listamos os dez artistas com mais streams, os dez ar
 
 Variável Dependente | Variável Independente | Correlação | Nível da correlação
 --------------------|-----------------------|------------|--------------------
-Streams             |BPM                    | -0.0023061 |Baixa  
+Streams             |BPM                    | -0.0023061 |Baixo  
 
 ![Gráfico de dispersão mostrando a correlação entre BPM e Streams](./assets/bpm-streams.png)  
 
@@ -207,9 +207,9 @@ Streams             |BPM                    | -0.0023061 |Baixa
 
 Variável Dependente | Variável Independente | Correlação | Nível da correlação
 --------------------|-----------------------|------------|--------------------
-Ranking no Spotify  |In_deezer_charts       |0.599986    | Moderada
-Ranking no Spotify  |In_apple_charts        |0.551428    | Moderada
-Ranking no Spotify  |In_shazam_charts       |0.571838    | Moderada  
+Ranking no Spotify  |In_deezer_charts       |0.599986    | Moderado
+Ranking no Spotify  |In_apple_charts        |0.551428    | Moderado
+Ranking no Spotify  |In_shazam_charts       |0.571838    | Moderado  
 
 ![Gráficos de dispersão mostrando a correlação entre o ranking das músicas em diferentes plataformas e streams](./assets/corr-ranking.png)  
 
@@ -233,7 +233,7 @@ A análise constatou que músicas presentes em muitas playlists tendem a ter um 
 
 Variável Dependente | Variável Independente | Correlação | Nível da correlação
 --------------------|-----------------------|------------|--------------------
-Streams             |Total de playlists     |0.771199    |Alta  
+Streams             |Total de playlists     |0.771199    |Alto  
 
 ![Gráficos de dispersão mostrando a correlação entre o ranking das músicas em diferentes plataformas e streams](./assets/totalPlaylists-streams.png)   
 
@@ -245,7 +245,7 @@ Portanto,  a correlação observada entre a quantidade de playlists e o número 
 
 Variável Dependente | Variável Independente | Correlação | Nível da correlação
 --------------------|-----------------------|------------|--------------------
-Streams             |Total de músicas por artista | 0.778368 |Alta  
+Streams             |Total de músicas por artista | 0.778368 |Alto  
 
 ![Gráfico de dispersão mostrando a correlação entre o total de músicas por artista e streams](./assets/totalMusicas-streams.png)  
 
