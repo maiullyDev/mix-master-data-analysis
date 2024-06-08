@@ -3,8 +3,7 @@
 # Ficha técnica | Mix Master
 
 ## Índice  
-- [Ficha técnica | Mix Master](#ficha-técnica--mix-master)
-  - [Índice](#índice)
+
   - [Equipe](#equipe)
   - [Ferramentas](#ferramentas)
   - [Caso](#caso)
@@ -23,11 +22,11 @@
     - [Streams por data de lançamento das músicas](#streams-por-data-de-lançamento-das-músicas)
     - [Segmentação](#segmentação)
     - [Hipóteses](#hipóteses)
-      - [Hipótese 1 | Será que as músicas com BPM mais alto fazem mais sucesso em termos de número de streams no Spotify? ❌](#hipótese-1--será-que-as-músicas-com-bpm-mais-alto-fazem-mais-sucesso-em-termos-de-número-de-streams-no-spotify-)
-      - [Hipótese 2 | As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer? ✅](#hipótese-2--as-músicas-mais-populares-no-ranking-do-spotify-também-possuem-um-comportamento-semelhante-em-outras-plataformas-como-deezer-)
-      - [Hipótese 3 | A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams? ✅](#hipótese-3--a-presença-de-uma-música-em-um-maior-número-de-playlists-está-correlacionada-com-um-maior-número-de-streams-)
-      - [Hipótese 4 | Artistas com um maior número de músicas no Spotify têm mais streams? ✅](#hipótese-4--artistas-com-um-maior-número-de-músicas-no-spotify-têm-mais-streams-)
-      - [Hipótese 5 | As características de uma música influenciam no sucesso em termos de número de streams no Spotify? ❌](#hipótese-5--as-características-de-uma-música-influenciam-no-sucesso-em-termos-de-número-de-streams-no-spotify-)
+      - [Hipótese 1 | Será que as músicas com BPM mais alto fazem mais sucesso em termos de número de streams no Spotify?](#hipótese-1--será-que-as-músicas-com-bpm-mais-alto-fazem-mais-sucesso-em-termos-de-número-de-streams-no-spotify-)
+      - [Hipótese 2 | As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas como Deezer?](#hipótese-2--as-músicas-mais-populares-no-ranking-do-spotify-também-possuem-um-comportamento-semelhante-em-outras-plataformas-como-deezer-)
+      - [Hipótese 3 | A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams?](#hipótese-3--a-presença-de-uma-música-em-um-maior-número-de-playlists-está-correlacionada-com-um-maior-número-de-streams-)
+      - [Hipótese 4 | Artistas com um maior número de músicas no Spotify têm mais streams?](#hipótese-4--artistas-com-um-maior-número-de-músicas-no-spotify-têm-mais-streams-)
+      - [Hipótese 5 | As características de uma música influenciam no sucesso em termos de número de streams no Spotify?](#hipótese-5--as-características-de-uma-música-influenciam-no-sucesso-em-termos-de-número-de-streams-no-spotify-)
       - [Hipótese adicional](#hipótese-adicional)
     - [Sugestões](#sugestões)
     - [Limitações e ideias futuras](#limitações-e-ideias-futuras)
