@@ -161,17 +161,16 @@ Para resumir essa análise, listamos os dez artistas com mais streams, os dez ar
       10. Imagine Dragons    
 
 - 10 músicas com mais streams:  
-
-1. BLINDING LIGHTS - The Weekend  
-2. SHAPE OF YOU - Ed Sheeran  
-3. SOMEONE YOU LOVED - Lewis Capald  
-4. DANCE MONKEY - Tones and I  
-5. SUNFLOWER - SPIDER-MAN: INTO THE SPIDER-VERSE - Post Malone, Swae Lee  
-6. ONE DANCE - Drake Wizkid, Kyla  
-7. STAY (WITH JUSTIN BIEBER) - Just Bieber anda, Kid Laroy  
-8. BELIEVER - Imagine Dragons  
-9. CLOSER - The Chainmokers, Halsey  
-10. STARBOY - The Weekend, Daft Punk   
+        1. BLINDING LIGHTS - The Weekend  
+        2. SHAPE OF YOU - Ed Sheeran  
+        3. SOMEONE YOU LOVED - Lewis Capald  
+        4. DANCE MONKEY - Tones and I  
+        5. SUNFLOWER - SPIDER-MAN: INTO THE SPIDER-VERSE - Post Malone, Swae Lee  
+        6. ONE DANCE - Drake Wizkid, Kyla  
+        7. STAY (WITH JUSTIN BIEBER) - Just Bieber anda, Kid Laroy  
+        8. BELIEVER - Imagine Dragons  
+        9. CLOSER - The Chainmokers, Halsey  
+        10. STARBOY - The Weekend, Daft Punk   
 
 → 5 dos artistas mais ouvidos, cujo volume de streams é significativo, coincidem com aqueles que têm a maior quantidade de músicas mais ouvidas. Essa observação sugere que os artistas mais populares têm uma presença significativa no top das músicas mais ouvidas. Isso indica que os artistas mais ouvidos tendem a ter um grande número de faixas que se destacam nas listas de tendências. Essa associação entre o sucesso dos artistas e a popularidade de suas músicas pode refletir a capacidade desses artistas de criar conteúdo musical que ressoa com o público e mantém sua relevância nas plataformas de streaming.
 
