@@ -148,7 +148,7 @@ Para resumir essa análise, listamos os dez artistas com mais streams, os dez ar
       9. BTS  
       10. Drake, 21 Savage   
  
-- Top 10 artistas com mais streams:
+- Top 10 artistas com mais streams:  
       1. Taylor Swift  
       2. Ed Sheeran  
       3. The Weekend  
@@ -160,7 +160,7 @@ Para resumir essa análise, listamos os dez artistas com mais streams, os dez ar
       9. Arctic Monkeys  
       10. Imagine Dragons    
 
-- 10 músicas com mais streams:
+- 10 músicas com mais streams:  
 
 1. BLINDING LIGHTS - The Weekend  
 2. SHAPE OF YOU - Ed Sheeran  
